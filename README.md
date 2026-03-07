@@ -4,7 +4,7 @@
 
 Twitter is one of the fastest ways information spreads during emergencies — but not every alarming tweet is about a real disaster. Phrases like "the traffic was on fire" or "this weather is destroying me" use disaster language without describing actual events. This project builds a classifier that distinguishes real disaster tweets from figurative ones, using a dataset of 7,613 labeled tweets from a Kaggle NLP competition.
 
-The best model, a Logistic Regression trained on bag-of-words features, achieved **80% accuracy** — outperforming an LSTM Neural Network and a Random Forest on this task.
+The best model, a Logistic Regression trained on bag-of-words features, achieved **80% accuracy** — outperforming an LSTM Neural Network and a Random Forest on this task. This project was completed as a final for a graduate course ECON 524 Advanced Machine Learning at Washington State University.
 
 ---
 
